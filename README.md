@@ -1,6 +1,6 @@
 <h1 align="center">Привет, меня зовут Кирилл!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Системный инженер и начинающий программист 1С.</h3>
 
 <!--
 **5kLaUs5/5kLaUs5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
